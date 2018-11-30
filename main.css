@@ -33,7 +33,7 @@ img {
 }
 
 img.profile-pic {
-	height: 30%;
+	height: 175px;
 	width: 30%;
 	object-fit: cover;
 	border-radius: 50%;
@@ -123,11 +123,11 @@ img.profile-pic {
 }
 
 .banner {
-	height: 30%;
+	height: 50%;
 }
 
 .primary-info {
-	height: 15%;
+	height: 50%;
 }
 
 .secondary-info {
@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: white;
 }
 
 .bg-color-white {
