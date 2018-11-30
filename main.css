@@ -91,6 +91,7 @@ img.profile-pic {
 .col.is-5 {
 	flex: none;
 	width: 50%;
+	padding-bottom: 10px;
 }
 
 .col.is-6 {
